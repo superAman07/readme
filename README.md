@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning DSA<br>🎯 Goals: Building an AI-Powered Web Application by Integrating C++, HTML, CSS, and JavaScript.<br>🎲 Fun fact: Amateur chef 🍳,"Coding in Python, speaking in Spanish".</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning STL<br>🎯 Goals: Building an AI-Powered Web Application by Integrating C++, HTML, CSS, and JavaScript.<br>🎲 Fun fact: Amateur chef 🍳,"Coding in Python, speaking in Spanish".</p>
 
 ###
 
